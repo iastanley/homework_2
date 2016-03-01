@@ -1,0 +1,25 @@
+body {
+	border-bottom: 5px solid black;
+	border-top: 5px solid black;
+	margin: 30px;
+	padding: 50px;
+	font-family: sans-serif;
+	font-size: 18px;
+	line-height: 2;
+	background-color: #eaeae1;
+}
+
+header, footer {
+	text-align: center;
+}
+
+main img {
+	float: right;
+	margin: 20px;
+	padding: 5px;
+	border: 1px solid black;
+}
+
+footer {
+	clear: both;
+}
